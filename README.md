@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Frontend Development and Deutsch**
 
-- ⚡ Entertainment **ACGN, Kindle, NetFlix, Hololive, Twitch, Youtube, etc.**
+- ⚡ Entertainment **ACGN, Kindle, NetFlix, Hololive, Twitch, Youtube, Steam, Azur Lane, etc.**
 
 
 <h3 align="left">Languages and Tools:</h3>
