@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee ChiHsuan</h1>
 <h3 align="center">An undergraduate major in computer science.</h3>
 
-- 🌱 I’m currently learning **React, Vue, Frontend Development and Deutsch**
+- 🌱 I’m currently learning **React, Vue, Frontend Development and Deutsch🇩🇪 **
 
 - ⚡ Entertainment **ACGN, Kindle, Netflix, Hololive, Twitch, Youtube, Steam, Azur Lane, etc.**
 
