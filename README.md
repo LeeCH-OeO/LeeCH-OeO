@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lee ChiHsuan</h1>
 
 - 🌱 I'm currently learning **React, Vue, Node.js, Frontend & Backend Development, and Deutsch**
 
